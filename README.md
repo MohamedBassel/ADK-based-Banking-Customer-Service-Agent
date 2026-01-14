@@ -158,6 +158,14 @@ Included test scenarios:
 
 ---
 
+## Build the RAG knowledge base (ChromaDB)
+The vector store is generated locally and is not committed to the repo.
+python setup_rag.py
+
+And for the SQLite DB:
+## Build the transactions database (SQLite)
+python database.py
+
 ## ⚠️ Disclaimer
 
 This project uses mock users and local storage for demonstration purposes only.  
