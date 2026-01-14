@@ -1,0 +1,46 @@
+Savings and Investment Products
+
+High-Yield Savings Account
+- Interest rate: 4.50% APY (Annual Percentage Yield)
+- Minimum opening deposit: $100
+- Monthly maintenance fee: $0
+- Minimum balance requirement: None
+- FDIC insured up to $250,000
+- Unlimited deposits
+- Up to 6 withdrawals per month (federal regulation)
+- Mobile and online banking included
+- No ATM card (transfers only)
+
+Premium Money Market Account
+- Interest rate: 4.75% APY on balances over $25,000
+- Tiered rates: 3.50% for $10k-$25k, 4.00% for $25k-$50k, 4.75% for $50k+
+- Minimum opening deposit: $10,000
+- Monthly maintenance fee: $15 (waived with $25,000 minimum balance)
+- Check writing privileges (up to 3 checks per month)
+- ATM card included with unlimited withdrawals
+- FDIC insured up to $250,000
+- Mobile and online banking included
+
+Certificates of Deposit (CDs)
+- Interest rates: 
+  - 3-month CD: 3.50% APY
+  - 6-month CD: 4.00% APY
+  - 12-month CD: 4.50% APY
+  - 24-month CD: 4.25% APY
+  - 60-month CD: 4.00% APY
+- Minimum deposit: $1,000
+- Early withdrawal penalty: 3 months interest for terms under 1 year, 6 months interest for longer terms
+- FDIC insured up to $250,000
+- Automatic renewal option available
+- Ladder strategy recommended for flexibility
+
+Youth Savings Account
+- Interest rate: 2.00% APY
+- Minimum opening deposit: $10
+- Monthly maintenance fee: $0
+- No minimum balance requirement
+- FDIC insured up to $250,000
+- Parent/guardian required for minors under 18
+- Financial literacy resources included
+- Transition to adult account at age 18
+- Mobile app with parental controls

@@ -1,0 +1,30 @@
+Credit Card Products
+
+Premium Rewards Card
+- Annual fee: $95
+- Rewards: 3% cash back on dining, 2% on groceries, 1% on all other purchases
+- Sign-up bonus: $200 after spending $1,000 in first 3 months
+- APR: 16.99% - 24.99% variable
+- Credit limit: $5,000 - $25,000 based on creditworthiness
+- Benefits: Travel insurance, purchase protection, extended warranty
+- Foreign transaction fee: None
+
+Student Cash Back Card
+- Annual fee: $0
+- Rewards: 1.5% cash back on all purchases
+- Sign-up bonus: None
+- APR: 18.99% - 26.99% variable
+- Credit limit: $500 - $3,000
+- Benefits: Free credit score monitoring, fraud protection
+- Foreign transaction fee: 3%
+- Requirements: Must be enrolled in college or university
+
+Business Travel Card
+- Annual fee: $150
+- Rewards: 4% on business travel, 3% on office supplies, 2% on all other purchases
+- Sign-up bonus: 50,000 points after spending $5,000 in first 3 months
+- APR: 15.99% - 23.99% variable
+- Credit limit: $10,000 - $50,000
+- Benefits: Airport lounge access, travel insurance, 24/7 concierge service
+- Foreign transaction fee: None
+- Requirements: Must have registered business

@@ -1,0 +1,40 @@
+Loan Products
+
+Personal Loan
+- Loan amount: $1,000 - $50,000
+- Interest rate: 6.99% - 24.99% APR based on credit score
+- Term length: 12 to 60 months
+- Monthly payment example: $10,000 loan at 10% APR for 36 months = $323/month
+- Origination fee: 1% - 5% of loan amount
+- No prepayment penalty
+- Requirements: Minimum credit score 620, steady income
+- Typical uses: Debt consolidation, home improvements, major purchases
+
+Home Mortgage
+- Loan amount: $50,000 - $2,000,000
+- Interest rate: 6.25% - 7.50% APR for 30-year fixed
+- Term length: 15-year or 30-year fixed, or adjustable rate options
+- Down payment: Minimum 3% for qualified buyers, 20% to avoid PMI
+- Closing costs: 2% - 5% of loan amount
+- Requirements: Credit score 620+, debt-to-income ratio below 43%
+- Pre-approval available online in 24 hours
+- First-time homebuyer programs available
+
+Auto Loan
+- Loan amount: $5,000 - $100,000
+- Interest rate: 4.99% - 15.99% APR based on credit score and vehicle
+- Term length: 24 to 84 months
+- Down payment: Recommended 10% - 20%
+- Requirements: Valid driver's license, proof of insurance, steady income
+- New and used vehicles eligible
+- Pre-approval available instantly online
+- Special rates for electric and hybrid vehicles
+
+Student Loan Refinancing
+- Loan amount: $10,000 - $500,000
+- Interest rate: 4.25% - 9.99% APR fixed or variable
+- Term length: 5, 7, 10, 15, or 20 years
+- No origination fees or prepayment penalties
+- Requirements: Bachelor's degree, minimum credit score 650, steady income
+- Can refinance federal and private student loans
+- Co-signer release available after 24 on-time payments
