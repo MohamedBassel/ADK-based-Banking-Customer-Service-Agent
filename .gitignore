@@ -1,0 +1,13 @@
+# Local databases / generated artifacts
+chroma_db/
+*.sqlite3
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
